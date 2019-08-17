@@ -1,0 +1,9 @@
+A simple example of how to execute Ruby scripts inside Java.
+(javax.script.ScriptEngine)
+Requires Java 1.6
+
+Eclipse
+	Git: Clone Git Repository
+	Java: Import >> Existing Maven Project
+
+BCP2

@@ -1,0 +1,4 @@
+A simple example of dynamic proxy.
+
+In this example we have an AppServer that receives (accept) remote requests for report (Socket).
+In the client side we dynamically build a "report proxy" which implementation calls the "remote service".

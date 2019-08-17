@@ -1,0 +1,5 @@
+Memento
+
+"Sem violar o encapsulamento, capturar e expor o estado
+interno de um objeto para que o objeto possa ter esse
+estado restaurado posteriormente." [GoF]

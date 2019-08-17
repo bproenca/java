@@ -1,0 +1,6 @@
+Chain of Responsibility
+
+"Evita acoplar o remetente de uma requisição ao seu
+destinatário ao dar a mais de um objeto a chance de servir
+a requisição. Compõe os objetos em cascata e passa a
+requisição pela corrente até que um objeto a sirva." [GoF]

@@ -1,0 +1,12 @@
+http://en.wikipedia.org/wiki/Iterator_pattern
+
+In object-oriented programming, the Iterator pattern is a design pattern in which iterators 
+are used to access the elements of an aggregate object sequentially without exposing its underlying 
+representation. An Iterator object encapsulates the internal structure of how the iteration occurs.
+
+For example, a tree, linked list, hash table, and an array all need to be iterated with the 
+methods search, sort, and next. Rather than having 12 different methods to manage (one 
+implementation for each of the previous three methods in each structure), using the iterator 
+pattern yields just seven: one for each class using the iterator to obtain the iterator and 
+one for each of the three methods. Therefore, to run the search method on the array, you would 
+call array.search(), which hides the call to array.iterator.search().

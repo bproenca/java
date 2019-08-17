@@ -1,0 +1,6 @@
+Composite
+
+"Compor objetos em estruturas de árvore para representar
+hierarquias todo-parte. Composite permite que clientes
+tratem objetos individuais e composições de objetos de
+maneira uniforme." [GoF]

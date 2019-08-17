@@ -1,0 +1,6 @@
+Visitor
+
+"Representar uma operação a ser realizada sobre os
+elementos de uma estrutura de objetos. Visitor permite
+definir uma nova operação sem mudar as classes dos
+elementos nos quais opera." [GoF]

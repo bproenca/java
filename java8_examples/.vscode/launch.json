@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestEnumMap",
+            "request": "launch",
+            "mainClass": "br.com.bcp.enumMap.TestEnumMap",
+            "projectName": "java8_examples_ce02dd7c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "br.com.bcp.Application",
+            "projectName": "java8_examples_ce02dd7c"
+        }
+    ]
+}

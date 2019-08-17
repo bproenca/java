@@ -1,0 +1,18 @@
+http://en.wikipedia.org/wiki/Facade_pattern
+
+The facade pattern is a software engineering design pattern commonly used with 
+Object-oriented programming. (The name is by analogy to an architectural facade.)
+
+A facade is an object that provides a simplified interface to a larger body of code, 
+such as a class library. A facade can:
+
+    * 	make a software library easier to use and understand, since the facade has 
+    	convenient methods for common tasks;
+    * 	make code that uses the library more readable, for the same reason;
+    * 	reduce dependencies of outside code on the inner workings of a library, since 
+    	most code uses the facade, thus allowing more flexibility in developing the system;
+    * 	wrap a poorly-designed collection of APIs with a single well-designed API (as per task needs).
+
+An Adapter is used when the wrapper must respect a particular interface and must support 
+a polymorphic behavior. On the other hand, a facade is used when one wants an easier or 
+simpler interface to work with.

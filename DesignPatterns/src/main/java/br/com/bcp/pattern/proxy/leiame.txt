@@ -1,0 +1,4 @@
+Proxy
+
+"Prover um substituto ou ponto através do qual um objeto
+possa controlar o acesso a outro." [GoF]

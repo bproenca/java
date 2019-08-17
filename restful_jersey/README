@@ -1,0 +1,6 @@
+RESTful Web services using Jersey.
+This example is dictionary resource exposed as WS.
+
+Example:
+Calling the URL "http://localhost:8080/translate/livro" will return a
+JSON object: {"portuguese":"livro", "english":"book"}
